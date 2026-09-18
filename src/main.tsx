@@ -11,7 +11,7 @@ import { ToastProvider } from "./lib/toastStore.tsx"
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <ThemeProvider>
         <ToastProvider>
           <GoodDeedsProvider>
