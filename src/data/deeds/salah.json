@@ -1,0 +1,565 @@
+{
+  "category": {
+    "id": "salah",
+    "label": "Salah (Prayers)",
+    "shortLabel": "Salah",
+    "description": "Obligatory and voluntary prayers",
+    "color": "brand"
+  },
+  "deedCount": 17,
+  "deeds": [
+    {
+      "id": "deed_salah_001",
+      "name": "5 Obligatory Prayers (Fard)",
+      "arabicName": "As-Salawat Al-Khams",
+      "category": "salah",
+      "subCategory": "Obligatory Salah",
+      "points": 50,
+      "penaltyPoints": 20,
+      "frequency": "Daily, 5x",
+      "preferredTime": "At each prayer's fixed time",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "The five daily prayers, the foundational pillar of Islam.",
+      "howToDo": [
+        "Pray Fajr (2 rak'ahs), Dhuhr (4), Asr (4), Maghrib (3), and Isha (4) within their prescribed time windows.",
+        "Fulfill every compulsory pillar and act within each prayer with focus and humility."
+      ],
+      "benefitsAndVirtue": "Serves as the foundational pillar of Islam, purifies daily sins between prayers, and maintains continuous divine connection.",
+      "references": [
+        {
+          "citation": "Surah An-Nisa 4:103",
+          "text": "Indeed, prayer has been decreed upon the believers a decree of specified times."
+        },
+        {
+          "citation": "Sahih al-Bukhari 528",
+          "text": "The deed most beloved to Allah is prayer performed at its proper time."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_002",
+      "name": "Congregational Prayer in Mosque",
+      "arabicName": "Salah Jama'ah",
+      "category": "salah",
+      "subCategory": "Salah Excellence",
+      "points": 60,
+      "penaltyPoints": 15,
+      "frequency": "Daily, 5x",
+      "preferredTime": "At each prayer's fixed time",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Pray the five daily prayers behind the Imam at the mosque.",
+      "howToDo": [
+        "Make wudu and walk to the masjid ahead of the prayer time.",
+        "Stand in rows behind the Imam and complete the obligatory prayer together with fellow worshipers."
+      ],
+      "benefitsAndVirtue": "Multiplies the reward of prayer 27 times, fosters brotherhood, and secures divine protection.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 645",
+          "text": "Prayer in congregation is twenty-seven times superior to prayer performed individually."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_003",
+      "name": "Praying Fajr & Isha in Congregation",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Salah Excellence",
+      "points": 70,
+      "penaltyPoints": 20,
+      "frequency": "Daily, 2x",
+      "preferredTime": "Fajr and Isha",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Attend the mosque specifically for Fajr and Isha prayers.",
+      "howToDo": [
+        "Attend the mosque for the dawn (Fajr) congregational prayer.",
+        "Return for the late-night (Isha) congregational prayer."
+      ],
+      "benefitsAndVirtue": "Equivalent to standing in voluntary night prayer all night long, builds self-discipline, and guards against hypocrisy.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 656",
+          "text": "Whoever prays Isha in congregation, it is as if he prayed half the night, and whoever prays Fajr in congregation, it is as if he prayed the entire night."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_004",
+      "name": "12 Raka'at Sunnah Rawatib",
+      "arabicName": "As-Sunan ar-Rawatib",
+      "category": "salah",
+      "subCategory": "Sunnah Salah",
+      "points": 40,
+      "penaltyPoints": 10,
+      "frequency": "Daily",
+      "preferredTime": "Around each fard prayer",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "The twelve confirmed rak'ahs prayed around the five daily prayers.",
+      "howToDo": [
+        "Pray 2 rak'ahs before Fajr.",
+        "Pray 4 rak'ahs before Dhuhr (as 2+2) and 2 rak'ahs after.",
+        "Pray 2 rak'ahs after Maghrib and 2 rak'ahs after Isha."
+      ],
+      "benefitsAndVirtue": "Guarantees a house built by Allah in Paradise and compensates for minor deficiencies in the obligatory prayers.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 728",
+          "text": "Whoever prays twelve rak'ahs in a day and a night will have a house built for him in Paradise."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_005",
+      "name": "Sunnah Before Fajr (2 Raka'at)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Sunnah Salah",
+      "points": 30,
+      "penaltyPoints": 10,
+      "frequency": "Daily",
+      "preferredTime": "Right after the Fajr adhan",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Two light rak'ahs prayed right after the Fajr adhan.",
+      "howToDo": [
+        "Perform 2 light rak'ahs immediately after the Fajr adhan.",
+        "Recite Surah Al-Kafirun in the first rak'ah and Surah Al-Ikhlas in the second."
+      ],
+      "benefitsAndVirtue": "Better than the entire world and everything in it; instills early morning peace and spiritual clarity.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 725",
+          "text": "The two rak'ahs of Fajr are better than the world and everything in it."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_006",
+      "name": "Witr Prayer",
+      "arabicName": "Salat al-Witr",
+      "category": "salah",
+      "subCategory": "Sunnah Salah",
+      "points": 30,
+      "penaltyPoints": 10,
+      "frequency": "Daily",
+      "preferredTime": "Before sleep or before Fajr",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "An odd-numbered prayer that closes out the night.",
+      "howToDo": [
+        "Pray an odd number of rak'ahs (1, 3, or 5) as the final prayer of the night.",
+        "Perform it either right after Isha or as the very last prayer before sleep or dawn."
+      ],
+      "benefitsAndVirtue": "Fulfills a beloved Sunnah, since Allah is odd and loves the odd, ensuring your day finishes in devotion.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 754",
+          "text": "Make Witr the last of your prayer at night."
+        },
+        {
+          "citation": "Sunan Abi Dawud 1418",
+          "text": "Allah is Witr (One) and loves the Witr, so perform Witr, O people of the Qur'an."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_007",
+      "name": "Tahajjud (Night Vigil Prayer)",
+      "arabicName": "Salat al-Tahajjud",
+      "category": "salah",
+      "subCategory": "Voluntary Salah",
+      "points": 50,
+      "penaltyPoints": 15,
+      "frequency": "Daily / Custom",
+      "preferredTime": "Last third of the night",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Voluntary night prayer performed after waking, before Fajr.",
+      "howToDo": [
+        "Wake up in the last third of the night and make wudu.",
+        "Pray 2 to 8 voluntary rak'ahs, in sets of two."
+      ],
+      "benefitsAndVirtue": "Brings one closest to Allah during the Divine Descent, ensures answered supplications, and grants spiritual light (nur).",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 1145",
+          "text": "Our Lord descends every night to the lowest heaven when the last third of the night remains, and He says: Who is calling upon Me, that I may answer him? Who is asking of Me, that I may give him? Who is seeking My forgiveness, that I may forgive him?"
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_008",
+      "name": "Duha Prayer (Forenoon Prayer)",
+      "arabicName": "Salat al-Duha",
+      "category": "salah",
+      "subCategory": "Voluntary Salah",
+      "points": 25,
+      "penaltyPoints": 10,
+      "frequency": "Daily",
+      "preferredTime": "Mid-morning, after sunrise",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "A short prayer after sunrise, standing in for daily charity.",
+      "howToDo": [
+        "Wait until about 15-20 minutes after sunrise.",
+        "Pray 2, 4, 6, or 8 rak'ahs any time before Dhuhr."
+      ],
+      "benefitsAndVirtue": "Fulfills the daily charity due upon all 360 joints of the body and brings blessing in livelihood.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 720",
+          "text": "In the morning, charity is due on every joint bone of the body of every one of you... and two rak'ahs which one prays in the forenoon will suffice for that."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_009",
+      "name": "Tahiyyatul Masjid (Greeting Mosque)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Sunnah Salah",
+      "points": 20,
+      "penaltyPoints": 5,
+      "frequency": "On mosque entry",
+      "preferredTime": "Whenever entering a mosque",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Two light rak'ahs prayed immediately upon entering a mosque.",
+      "howToDo": [
+        "Upon entering a mosque, pray 2 light rak'ahs before sitting down."
+      ],
+      "benefitsAndVirtue": "Demonstrates proper reverence for the house of Allah, converting physical entry into instant worship.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 444",
+          "text": "When any one of you enters the mosque, he should not sit down until he has prayed two rak'ahs."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_010",
+      "name": "Tahiyyatul Wudu (Prayer After Wudu)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Sunnah Salah",
+      "points": 20,
+      "penaltyPoints": 5,
+      "frequency": "After wudu",
+      "preferredTime": "Right after wudu",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Two voluntary rak'ahs prayed shortly after ablution.",
+      "howToDo": [
+        "Shortly after completing wudu, pray 2 voluntary rak'ahs with focus and humility."
+      ],
+      "benefitsAndVirtue": "Erases prior minor sins and serves as a direct path to Paradise, as exemplified by Bilal (RA).",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 1149",
+          "text": "I have never purified myself with an ablution, at any hour of night or day, without praying with that purification whatever was written for me to pray, said Bilal, when asked by the Prophet about his most hopeful deed in Islam."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_011",
+      "name": "Salat al-Istikhara (Guidance)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Voluntary Salah",
+      "points": 35,
+      "penaltyPoints": 10,
+      "frequency": "As needed",
+      "preferredTime": "Whenever facing a decision",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Two rak'ahs prayed for guidance before a decision.",
+      "howToDo": [
+        "When facing a decision, pray 2 non-obligatory rak'ahs.",
+        "Follow with the prescribed Istikhara supplication, then proceed with an open heart."
+      ],
+      "benefitsAndVirtue": "Eliminates anxiety, aligns choices with divine decree, and entrusts outcomes to Allah.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 1166",
+          "text": "O Allah, I seek Your guidance through Your knowledge, and I seek ability through Your power, and I ask You of Your great bounty."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_012",
+      "name": "Salat al-Tawbah (Repentance)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Voluntary Salah",
+      "points": 40,
+      "penaltyPoints": 10,
+      "frequency": "As needed",
+      "preferredTime": "Whenever seeking repentance",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Two rak'ahs prayed with sincere repentance.",
+      "howToDo": [
+        "Perform proper wudu and pray 2 rak'ahs.",
+        "Sincerely ask Allah for forgiveness while resolving to leave the sin behind."
+      ],
+      "benefitsAndVirtue": "Erases committed sins, purifies the heart, and re-establishes divine mercy.",
+      "references": [
+        {
+          "citation": "Sunan Abi Dawud 1521",
+          "text": "There is no man who commits a sin, then gets up and purifies himself, then prays two rak'ahs, then asks forgiveness of Allah, but Allah forgives him."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_013",
+      "name": "Jumu'ah (Friday) Prayer",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Obligatory Salah",
+      "points": 80,
+      "penaltyPoints": 50,
+      "frequency": "Weekly",
+      "preferredTime": "Friday midday",
+      "suggestedDays": [
+        "Fri"
+      ],
+      "description": "The obligatory Friday congregational prayer and khutbah.",
+      "howToDo": [
+        "Perform ghusl and arrive early at the masjid.",
+        "Listen attentively to the khutbah, then pray 2 rak'ahs with the Imam."
+      ],
+      "benefitsAndVirtue": "Wipes away sins committed between Fridays and unites the Muslim community in weekly remembrance.",
+      "references": [
+        {
+          "citation": "Surah Al-Jumu'ah 62:9",
+          "text": "O you who have believed, when the call to prayer is made on Friday, then proceed to the remembrance of Allah and leave trade. That is better for you, if you only knew."
+        },
+        {
+          "citation": "Sahih Muslim 857",
+          "text": "Whoever performs ghusl on Friday like the ghusl for major impurity and then goes early to the mosque is as if he had sacrificed a camel."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_017",
+      "name": "Salat al-Kusuf / Khusuf (Eclipse)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Sunnah Mu'akkadah",
+      "points": 70,
+      "penaltyPoints": 15,
+      "frequency": "As needed",
+      "preferredTime": "During a solar or lunar eclipse",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "A special prayer performed during a solar or lunar eclipse.",
+      "howToDo": [
+        "During a solar or lunar eclipse, pray 2 rak'ahs.",
+        "Perform two bowings (ruku') within each rak'ah with long recitation."
+      ],
+      "benefitsAndVirtue": "Instills awe of Allah's cosmic power, reminds of the Day of Judgment, and prompts repentance.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 1040",
+          "text": "The sun and the moon are two signs among the signs of Allah. They do not eclipse for the death or life of anyone, but when you see that, remember Allah."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_018",
+      "name": "Salat al-Janazah (Funeral Prayer)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Fard Kifayah",
+      "points": 100,
+      "penaltyPoints": 20,
+      "frequency": "As needed",
+      "preferredTime": "Whenever a funeral prayer is held",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "The communal funeral prayer, a collective obligation.",
+      "howToDo": [
+        "Stand in rows without ruku' or sujud.",
+        "Say four Takbirs, reciting Al-Fatihah, Salawat, a du'a for the deceased, and closing Taslim."
+      ],
+      "benefitsAndVirtue": "Earns a reward equivalent to a mountain of Uhud and fulfills a vital communal obligation.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 47",
+          "text": "Whoever attends the funeral until the prayer is offered will have a reward of one qirat, and whoever attends until burial will have a reward of two qirats, each qirat like the great mountain of Uhud."
+        },
+        {
+          "citation": "Sahih Muslim 945",
+          "text": "The smallest of the two qirats is like the mountain of Uhud."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_019",
+      "name": "Sajdah al-Tilawah (Prostration)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Salah & Qur'an",
+      "points": 25,
+      "penaltyPoints": 5,
+      "frequency": "As needed",
+      "preferredTime": "Whenever a prostration verse is recited",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "A single prostration upon reciting or hearing a verse of prostration.",
+      "howToDo": [
+        "Upon reading or hearing a verse of prostration, perform a single prostration.",
+        "Glorify Allah during the prostration, then rise."
+      ],
+      "benefitsAndVirtue": "Demonstrates immediate submission to revelation and causes Satan to weep in despair.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 81",
+          "text": "When the son of Adam recites a verse of prostration and prostrates, Satan withdraws weeping, saying: Woe to me, the son of Adam was commanded to prostrate and he prostrated, so his is Paradise, and I was commanded to prostrate and I refused, so mine is the Fire."
+        }
+      ]
+    },
+    {
+      "id": "deed_salah_020",
+      "name": "Sajdah al-Shukr (Thanks Prostration)",
+      "arabicName": null,
+      "category": "salah",
+      "subCategory": "Voluntary Act",
+      "points": 30,
+      "penaltyPoints": 5,
+      "frequency": "As needed",
+      "preferredTime": "Whenever blessed with good news",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "A prostration of gratitude upon receiving good news.",
+      "howToDo": [
+        "Upon receiving joyful news or being saved from calamity, prostrate immediately.",
+        "Give thanks to Allah during the prostration."
+      ],
+      "benefitsAndVirtue": "Cultivates deep humility, preserves blessings from vanishing, and draws one closer to Allah.",
+      "references": [
+        {
+          "citation": "Sunan Abi Dawud 2774",
+          "text": "Whenever a matter that would bring him joy came to him, or he was given glad tidings, the Prophet would fall down in prostration, thanking Allah."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "category": {
+    "id": "quran",
+    "label": "Qur'an",
+    "shortLabel": "Qur'an",
+    "description": "Recitation, study & reflection",
+    "color": "emerald"
+  },
+  "deedCount": 10,
+  "deeds": [
+    {
+      "id": "deed_quran_001",
+      "name": "Recite Al-Qur'an (Any Surah)",
+      "arabicName": "Tilawah al-Qur'an",
+      "category": "quran",
+      "subCategory": "Qur'an Recitation",
+      "points": 30,
+      "penaltyPoints": 10,
+      "frequency": "Daily / Custom",
+      "preferredTime": "Anytime",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Recite any portion of the Qur'an with focus and sincerity.",
+      "howToDo": [
+        "Read any portion or chapter of the Qur'an with proper Tajweed.",
+        "Recite with focus and sincerity, even a small consistent portion."
+      ],
+      "benefitsAndVirtue": "Earns ten rewards per letter, softens the heart, and brings spiritual healing (shifa') to the soul.",
+      "references": [
+        {
+          "citation": "Jami' at-Tirmidhi 2910",
+          "text": "Whoever reads a letter from the Book of Allah, he will have a reward, and that reward will be multiplied by ten. I do not say that Alif Lam Mim is a letter, but Alif is a letter, Lam is a letter, and Mim is a letter."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_003",
+      "name": "Recite Surah Al-Kahf on Friday",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Qur'an Recitation",
+      "points": 100,
+      "penaltyPoints": 30,
+      "frequency": "Weekly",
+      "preferredTime": "Thursday sunset to Friday sunset",
+      "suggestedDays": [
+        "Fri"
+      ],
+      "description": "Recite Surah Al-Kahf between Thursday sunset and Friday sunset.",
+      "howToDo": [
+        "Recite Surah Al-Kahf (Chapter 18) any time between Thursday sunset and Friday sunset."
+      ],
+      "benefitsAndVirtue": "Casts light for the reciter between the two Fridays and shields against the tribulations of Dajjal.",
+      "references": [
+        {
+          "citation": "Sunan al-Kubra 5856",
+          "text": "Whoever recites Surah Al-Kahf on the day of Friday, light will shine for him between the two Fridays."
+        },
+        {
+          "citation": "Al-Hakim 2/368",
+          "text": "Whoever memorizes the first ten verses of Surah Al-Kahf will be protected from the Dajjal."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_004",
+      "name": "Recite Surah Al-Mulk Before Sleep",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Qur'an Recitation",
+      "points": 40,
+      "penaltyPoints": 10,
+      "frequency": "Daily",
+      "preferredTime": "Before sleep",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Recite Surah Al-Mulk every night before sleeping.",
+      "howToDo": [
+        "Recite Surah Al-Mulk (Chapter 67) every night before sleeping."
+      ],
+      "benefitsAndVirtue": "Intercedes continuously for the reader until forgiven and protects against the torment of the grave.",
+      "references": [
+        {
+          "citation": "Jami' at-Tirmidhi 2891",
+          "text": "There is a surah in the Qur'an of thirty verses which will intercede for its companion until he is forgiven: Blessed is He in whose hand is the dominion (Tabarak alladhi bi yadihil-mulk)."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_005",
+      "name": "Recite Ayatul Kursi After Fard Salah",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Salah & Qur'an",
+      "points": 30,
+      "penaltyPoints": 10,
+      "frequency": "Daily, 5x",
+      "preferredTime": "After each fard prayer",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Recite Ayat al-Kursi once after every obligatory prayer.",
+      "howToDo": [
+        "Recite Ayat al-Kursi (Al-Baqarah 2:255) once immediately after each obligatory prayer."
+      ],
+      "benefitsAndVirtue": "Ensures that the only barrier between the reciter and entering Paradise is physical death.",
+      "references": [
+        {
+          "citation": "Sunan al-Kubra 9848",
+          "text": "Whoever recites Ayat al-Kursi immediately after every obligatory prayer, nothing stands between him and entering Paradise except death."
+        },
+        {
+          "citation": "Ibn Hibban 121",
+          "text": "The greatest verse in the Book of Allah is Ayat al-Kursi."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_006",
+      "name": "Recite 3 Quls Nightly",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Qur'an Recitation",
+      "points": 25,
+      "penaltyPoints": 10,
+      "frequency": "Daily",
+      "preferredTime": "Before sleep",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Recite the three Quls and wipe them over the body before sleep.",
+      "howToDo": [
+        "Cup your hands and recite Surah Al-Ikhlas, Al-Falaq, and An-Nas.",
+        "Blow into your hands and wipe them across your body; repeat three times."
+      ],
+      "benefitsAndVirtue": "Provides complete divine protection from magic, the evil eye, and subtle nocturnal harms.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 5017",
+          "text": "Every night when the Prophet went to bed, he would cup his hands together and blow into them after reciting Al-Ikhlas, Al-Falaq, and An-Nas, then wipe his hands over whatever he could of his body, starting with his head and face, doing so three times."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_007",
+      "name": "Recite Surah Al-Ikhlas (10 Times)",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Qur'an Recitation",
+      "points": 35,
+      "penaltyPoints": 10,
+      "frequency": "Daily / Custom",
+      "preferredTime": "Anytime",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Recite Surah Al-Ikhlas ten times in a day.",
+      "howToDo": [
+        "Recite Surah Al-Ikhlas (Chapter 112) ten times, in one sitting or spread through the day."
+      ],
+      "benefitsAndVirtue": "Earns a palace built by Allah in Jannah and affirms core monotheism (Tawhid).",
+      "references": [
+        {
+          "citation": "Musnad Ahmad 15611",
+          "text": "Whoever recites Qul huwa Allahu ahad ten times, Allah will build for him a palace in Paradise."
+        },
+        {
+          "citation": "Sahih al-Jami 6472",
+          "text": "Surah Al-Ikhlas is equivalent to a third of the Qur'an."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_008",
+      "name": "Recite Last 2 Ayat of Surah Al-Baqarah",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Qur'an Recitation",
+      "points": 30,
+      "penaltyPoints": 10,
+      "frequency": "Daily",
+      "preferredTime": "Before sleep",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Recite the final two verses of Al-Baqarah before sleeping.",
+      "howToDo": [
+        "Recite verses 285 and 286 of Surah Al-Baqarah before going to sleep."
+      ],
+      "benefitsAndVirtue": "Serves as complete protection for the night and counts as spending the night in devotion.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 5009",
+          "text": "Whoever recites the last two verses of Surah Al-Baqarah at night, they will suffice him."
+        },
+        {
+          "citation": "Sahih Muslim 807",
+          "text": "The last two verses of Al-Baqarah were given to the Prophet from a treasure beneath the Throne."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_009",
+      "name": "Memorizing 1 New Ayah",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Qur'an Memorization",
+      "points": 20,
+      "penaltyPoints": 5,
+      "frequency": "Daily",
+      "preferredTime": "Anytime",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Memorize one new verse of the Qur'an each day.",
+      "howToDo": [
+        "Repeat a new verse until it is fully memorized.",
+        "Understand its meaning and review it during optional prayers."
+      ],
+      "benefitsAndVirtue": "Elevates spiritual status in Paradise and permanently preserves divine light within.",
+      "references": [
+        {
+          "citation": "Sunan Abi Dawud 1464",
+          "text": "It will be said to the companion of the Qur'an: Recite and ascend, and recite as you used to recite in the world, for your rank will be at the last verse you recite."
+        },
+        {
+          "citation": "Jami' at-Tirmidhi 2914",
+          "text": "The one who is proficient in the Qur'an will be with the noble, righteous scribes."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_010",
+      "name": "Revision / Muraja'ah of Qur'an",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Qur'an Maintenance",
+      "points": 45,
+      "penaltyPoints": 15,
+      "frequency": "Daily",
+      "preferredTime": "Anytime",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Review previously memorized portions to prevent forgetting.",
+      "howToDo": [
+        "Systematically review previously memorized surahs or pages.",
+        "Repeat until the recall is confident, to prevent forgetfulness."
+      ],
+      "benefitsAndVirtue": "Protects sacred knowledge from slipping away and keeps the mind continuously tied to revelation.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 5031",
+          "text": "The example of the one who recites the Qur'an and memorizes it is like the owner of tied camels: if he keeps holding them, he keeps them, and if he releases them, they go away."
+        }
+      ]
+    },
+    {
+      "id": "deed_quran_014",
+      "name": "Reciting 100 Ayat in Night Prayer",
+      "arabicName": null,
+      "category": "quran",
+      "subCategory": "Salah & Qur'an",
+      "points": 60,
+      "penaltyPoints": 15,
+      "frequency": "Daily",
+      "preferredTime": "During night prayer",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Recite 100 or more verses during night prayer.",
+      "howToDo": [
+        "During Tahajjud or Qiyam al-Layl, recite verses until reaching a total of 100 or more."
+      ],
+      "benefitsAndVirtue": "Protects from being recorded among the negligent and places one among the devout.",
+      "references": [
+        {
+          "citation": "Sunan Abi Dawud 1398",
+          "text": "Whoever recites one hundred verses in a night will not be recorded among the negligent."
+        }
+      ]
+    }
+  ]
+}

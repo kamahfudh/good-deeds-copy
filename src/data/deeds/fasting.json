@@ -1,0 +1,476 @@
+{
+  "category": {
+    "id": "fasting",
+    "label": "Fasting",
+    "shortLabel": "Fasting",
+    "description": "Obligatory, Sunnah & voluntary fasts",
+    "color": "violet"
+  },
+  "deedCount": 15,
+  "deeds": [
+    {
+      "id": "deed_fasting_001",
+      "name": "Fasting the Month of Ramadan",
+      "arabicName": "Sawm Ramadan",
+      "category": "fasting",
+      "subCategory": "Obligatory Fasting",
+      "points": 100,
+      "penaltyPoints": 50,
+      "frequency": "Annual",
+      "preferredTime": "Dawn to sunset, throughout Ramadan",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Abstain from food, drink, and relations from dawn to sunset throughout Ramadan.",
+      "howToDo": [
+        "Abstain from food, drink, and marital relations from dawn (Fajr) until sunset (Maghrib) every day of Ramadan.",
+        "Renew your intention each night and maintain good conduct and worship throughout the fast."
+      ],
+      "benefitsAndVirtue": "Fulfills the fourth pillar of Islam, expiates past minor sins, and builds sustained God-consciousness.",
+      "references": [
+        {
+          "citation": "Surah Al-Baqarah 2:183",
+          "text": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_002",
+      "name": "Fasting Mondays and Thursdays",
+      "arabicName": null,
+      "category": "fasting",
+      "subCategory": "Sunnah Fasting",
+      "points": 40,
+      "penaltyPoints": 10,
+      "frequency": "Weekly (2x)",
+      "preferredTime": "Dawn to Maghrib",
+      "suggestedDays": [
+        "Mon",
+        "Thu"
+      ],
+      "description": "Fast every Monday and Thursday from dawn until Maghrib.",
+      "howToDo": [
+        "Fast from dawn (Fajr) until sunset (Maghrib) every Monday and Thursday.",
+        "Make the intention the night before, or any time before midday if needed."
+      ],
+      "benefitsAndVirtue": "Ensures your weekly deeds are presented to Allah while you are in a state of worship.",
+      "references": [
+        {
+          "citation": "Jami' at-Tirmidhi 747",
+          "text": "Deeds are presented on Monday and Thursday, and I like for my deeds to be presented while I am fasting."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_003",
+      "name": "Fasting the White Days (Ayyam al-Beed)",
+      "arabicName": "Ayyam al-Beed",
+      "category": "fasting",
+      "subCategory": "Sunnah Fasting",
+      "points": 50,
+      "penaltyPoints": 10,
+      "frequency": "Monthly",
+      "preferredTime": "13th, 14th & 15th of the lunar month",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast on the 13th, 14th, and 15th of every Islamic lunar month.",
+      "howToDo": [
+        "Fast on the 13th, 14th, and 15th of every Islamic lunar month."
+      ],
+      "benefitsAndVirtue": "Multiplies rewards tenfold, making three days of monthly fasting equal to perpetual reward.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 1975",
+          "text": "The Prophet said to me: O Abu Dharr, if you fast three days of the month, then fast the thirteenth, the fourteenth, and the fifteenth."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_004",
+      "name": "Fasting the Day of Arafah",
+      "arabicName": "Sawm Arafah",
+      "category": "fasting",
+      "subCategory": "Voluntary Fasting",
+      "points": 100,
+      "penaltyPoints": 20,
+      "frequency": "Annual (9 Dhul-Hijjah)",
+      "preferredTime": "9th of Dhul-Hijjah (non-pilgrims)",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast on the 9th day of Dhul-Hijjah if not performing Hajj.",
+      "howToDo": [
+        "Fast on the 9th day of Dhul-Hijjah, the Day of Arafah, if you are not performing Hajj."
+      ],
+      "benefitsAndVirtue": "Wipes away two full years of minor sins - the past year and the upcoming year.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 1162",
+          "text": "Fasting the day of Arafah, I hope, expiates for the year before it and the year after it."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_005",
+      "name": "Fasting Ashura & Tasu'a",
+      "arabicName": "Sawm Ashura",
+      "category": "fasting",
+      "subCategory": "Sunnah Fasting",
+      "points": 80,
+      "penaltyPoints": 15,
+      "frequency": "Annual (9-10 Muharram)",
+      "preferredTime": "9th & 10th of Muharram",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast the 10th of Muharram, preferably paired with the 9th.",
+      "howToDo": [
+        "Fast the 10th of Muharram (Ashura).",
+        "Pair it with a fast on the 9th (Tasu'a) to differ from other communities."
+      ],
+      "benefitsAndVirtue": "Expiates the minor sins of the past year and commemorates Allah saving Prophet Musa (AS).",
+      "references": [
+        {
+          "citation": "Sahih Muslim 1162",
+          "text": "Fasting the day of Ashura, I hope that Allah will accept it as expiation for the year that came before it."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_006",
+      "name": "Fasting 6 Days of Shawwal",
+      "arabicName": null,
+      "category": "fasting",
+      "subCategory": "Sunnah Fasting",
+      "points": 75,
+      "penaltyPoints": 15,
+      "frequency": "Annual (Shawwal)",
+      "preferredTime": "Any 6 days in Shawwal",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast any 6 days during the lunar month of Shawwal after Eid al-Fitr.",
+      "howToDo": [
+        "Fast any 6 days during the month of Shawwal, after completing Ramadan and celebrating Eid al-Fitr."
+      ],
+      "benefitsAndVirtue": "Yields the continuous reward of a full year of fasting when paired with Ramadan.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 1164",
+          "text": "Whoever fasts Ramadan and then follows it with six days of Shawwal, it is as if he fasted for a lifetime."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_007",
+      "name": "Fasting in the Month of Muharram",
+      "arabicName": null,
+      "category": "fasting",
+      "subCategory": "Voluntary Fasting",
+      "points": 45,
+      "penaltyPoints": 10,
+      "frequency": "Annual (Muharram)",
+      "preferredTime": "Throughout Muharram",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Observe voluntary fasts throughout the sacred month of Muharram.",
+      "howToDo": [
+        "Observe voluntary fasts on any days throughout the sacred month of Muharram."
+      ],
+      "benefitsAndVirtue": "Secures the most virtuous voluntary fasts outside of Ramadan and honors Allah's sacred month.",
+      "references": [
+        {
+          "citation": "Sahih Muslim 1163",
+          "text": "The best fasting after Ramadan is fasting in the month of Allah, Muharram."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_008",
+      "name": "Fasting during Sha'ban",
+      "arabicName": null,
+      "category": "fasting",
+      "subCategory": "Sunnah Fasting",
+      "points": 45,
+      "penaltyPoints": 10,
+      "frequency": "Annual (Sha'ban)",
+      "preferredTime": "Throughout Sha'ban",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast frequently throughout the month of Sha'ban preceding Ramadan.",
+      "howToDo": [
+        "Fast frequently throughout the month of Sha'ban in preparation for Ramadan."
+      ],
+      "benefitsAndVirtue": "Prepares the soul for Ramadan and ensures annual deeds are raised while you are in worship.",
+      "references": [
+        {
+          "citation": "Sunan an-Nasa'i 2357",
+          "text": "The Messenger of Allah used to fast until we thought he would never stop, and he would leave off fasting until we thought he would never fast; and I never saw him fast a complete month except Ramadan, nor did I see him fast more in any month than in Sha'ban."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_009",
+      "name": "Fasting First 9 Days of Dhul-Hijjah",
+      "arabicName": null,
+      "category": "fasting",
+      "subCategory": "Voluntary Fasting",
+      "points": 60,
+      "penaltyPoints": 10,
+      "frequency": "Annual (1-9 Dhul-Hijjah)",
+      "preferredTime": "1st-9th of Dhul-Hijjah",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast during any or all of the first nine days of Dhul-Hijjah.",
+      "howToDo": [
+        "Fast on any or all of the first nine days of Dhul-Hijjah, the most virtuous days of the year."
+      ],
+      "benefitsAndVirtue": "Maximizes rewards during the most sacred and virtuous ten days of the Islamic calendar.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 969",
+          "text": "There are no days in which righteous deeds are more beloved to Allah than these ten days."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_010",
+      "name": "Fasting of Dawud (Alternate Days)",
+      "arabicName": "Sawm Dawud",
+      "category": "fasting",
+      "subCategory": "Voluntary Fasting",
+      "points": 90,
+      "penaltyPoints": 20,
+      "frequency": "Custom / Ongoing",
+      "preferredTime": "Every other day",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast every other day consistently, without neglecting health or family rights.",
+      "howToDo": [
+        "Fast every alternate day, breaking your fast the following day.",
+        "Maintain the pattern consistently without neglecting your health or the rights of your family."
+      ],
+      "benefitsAndVirtue": "Represents the highest level of voluntary fasting, most beloved to Allah.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 3418",
+          "text": "The most beloved fasting to Allah was the fasting of Dawud; he used to fast every alternate day."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_011",
+      "name": "Making Up Missed Fast (Qada)",
+      "arabicName": "Sawm al-Qada",
+      "category": "fasting",
+      "subCategory": "Obligatory Fasting",
+      "points": 80,
+      "penaltyPoints": 30,
+      "frequency": "As needed",
+      "preferredTime": "Before the next Ramadan",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast on any permissible day before the next Ramadan to make up missed obligatory days.",
+      "howToDo": [
+        "Fast on any permissible day before the following Ramadan begins, to make up each day missed."
+      ],
+      "benefitsAndVirtue": "Fulfills a compulsory debt owed to Allah and removes accountability for missed fasts.",
+      "references": [
+        {
+          "citation": "Surah Al-Baqarah 2:185",
+          "text": "And whoever is ill or on a journey - then an equal number of other days."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_012",
+      "name": "Fasting in the Sacred Months (Al-Ashhur Al-Hurum)",
+      "arabicName": null,
+      "category": "fasting",
+      "subCategory": "Voluntary Fasting",
+      "points": 50,
+      "penaltyPoints": 10,
+      "frequency": "Seasonal",
+      "preferredTime": "During Dhul-Qa'dah, Dhul-Hijjah, Muharram & Rajab",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Observe voluntary fasts during Dhul-Qa'dah, Dhul-Hijjah, Muharram, and Rajab.",
+      "howToDo": [
+        "Observe voluntary fasts on any days during the four sacred months: Dhul-Qa'dah, Dhul-Hijjah, Muharram, and Rajab."
+      ],
+      "benefitsAndVirtue": "Elevates good deeds during periods specially sanctified by Allah.",
+      "references": [
+        {
+          "citation": "Sunan Abi Dawud 2428",
+          "text": "Fast some days of the sacred month, then leave off."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_013",
+      "name": "Expiation Fasting (Kaffarah)",
+      "arabicName": "Sawm al-Kaffarah",
+      "category": "fasting",
+      "subCategory": "Obligatory Expiation",
+      "points": 85,
+      "penaltyPoints": 40,
+      "frequency": "As needed",
+      "preferredTime": "As prescribed (e.g. 3 consecutive days)",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast consecutive required days, such as 3 days for a broken oath, as prescribed by Sharia.",
+      "howToDo": [
+        "Fast the number of consecutive days prescribed by Sharia for the specific violation, such as 3 days for a broken oath."
+      ],
+      "benefitsAndVirtue": "Atones for broken solemn oaths and deliberate religious violations.",
+      "references": [
+        {
+          "citation": "Surah Al-Ma'idah 5:89",
+          "text": "But whoever cannot find [or afford it] - then a fast of three days."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_014",
+      "name": "Fasting for Unmarried Youth",
+      "arabicName": null,
+      "category": "fasting",
+      "subCategory": "Sunnah Protection",
+      "points": 50,
+      "penaltyPoints": 10,
+      "frequency": "As needed",
+      "preferredTime": "Whenever needed",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast voluntarily when unable to marry, to control physical desires and guard chastity.",
+      "howToDo": [
+        "Fast voluntarily whenever unable to marry, to help control physical desire and guard chastity."
+      ],
+      "benefitsAndVirtue": "Acts as a spiritual shield against temptation and builds self-mastery.",
+      "references": [
+        {
+          "citation": "Sahih al-Bukhari 5066",
+          "text": "O young men, whoever among you can afford marriage, let him marry, for it lowers the gaze and guards chastity. And whoever cannot, let him fast, for it is a shield for him."
+        }
+      ]
+    },
+    {
+      "id": "deed_fasting_015",
+      "name": "Fasting of a Vow (Nadhr)",
+      "arabicName": "Sawm an-Nadhr",
+      "category": "fasting",
+      "subCategory": "Obligatory Vow",
+      "points": 70,
+      "penaltyPoints": 30,
+      "frequency": "As needed",
+      "preferredTime": "As pledged",
+      "suggestedDays": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "description": "Fast the specific number of days pledged to Allah upon fulfillment of a condition.",
+      "howToDo": [
+        "Fast the exact number of days you pledged to Allah once the condition of your vow has been fulfilled."
+      ],
+      "benefitsAndVirtue": "Fulfills a binding religious covenant made directly with Allah.",
+      "references": [
+        {
+          "citation": "Surah Al-Hajj 22:29",
+          "text": "...and let them fulfill their vows."
+        }
+      ]
+    }
+  ]
+}
